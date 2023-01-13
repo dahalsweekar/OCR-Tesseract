@@ -185,7 +185,9 @@ current called no-load current Io or exciting current.
 In ideal transformer where there is no losses in the core at the
 transformer, this current Io totally lags the primary voltage v; by 90°
 But in actual case, there will be some power loss as iron loss (core loss}
+
 Image 2:
+![test1](https://user-images.githubusercontent.com/99968233/212303986-0ae405b1-f862-4612-a9e2-da1dba842487.png)
 Extracted Text: 
 Aamir Paudel
 Damodar Bhandari
@@ -197,6 +199,7 @@ G.L. Book House Pvt. Ltd.
 infront of Thapathali Engineering Campus, Maitighar, Kathmandu
 
 Image 3:
+![test2](https://user-images.githubusercontent.com/99968233/212304007-16e7c32a-aa9e-4f90-b0d8-b2ff022731a6.png)
 Extracted Text:
 212
 2.3
@@ -242,7 +245,7 @@ Method of excitanon: *eparately and seif excited, Types of DC Generator
 Characteristics of series chins apt! =
 
 Image 4:
-
+![test3](https://user-images.githubusercontent.com/99968233/212304015-23617b7a-8962-482f-9500-6cf318e907a0.png)
 Extracted Text:
 CONTENTS |
 
@@ -256,6 +259,7 @@ Chapters Pages,
 
 Fractional Kilowatt Motors * 203
 Image 5:
+![test4](https://user-images.githubusercontent.com/99968233/212304030-63130916-f49b-4101-bd94-1fdb24243d9b.png)
 Extracted Text:
 Three Phase Induction Machines
 5 Three Phase Induction Motor : (oy
@@ -279,6 +283,7 @@ Exciter
 
 
 Image 6:
+![test5](https://user-images.githubusercontent.com/99968233/212304047-ce2bf894-d7f9-4bbf-b767-8e027af7f157.png)
 Extracted Text:
 Q.4 What is eddy current loss? Discus how can we minimize it.
 
@@ -296,6 +301,7 @@ eddy current loss.
 - mean length of the path of the circulating current for a given cross
 
 Image 7:
+![test7](https://user-images.githubusercontent.com/99968233/212304078-833af73d-e06a-4125-9bca-8fd8aafb18a9.png)
 Extracted Text:
 Q.1LA magnetic circuit consists of a circular iron core having e
 length of 10 cm & cross sectional area of 100 mm’. The air eu
@@ -308,7 +314,7 @@ Given p, = 4000
 Se
 
 Image 8:
-
+![test6](https://user-images.githubusercontent.com/99968233/212304063-e8151ad6-6862-48bf-9f75-87dfd7ae3356.png)
 Extracted Text:
 Q.2 An iron ring of mean length of 1. 2 m and crOSs-sectional
 0.05 m? is would with a coil of 900 turns. If a current of 2 at
