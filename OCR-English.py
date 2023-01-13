@@ -36,6 +36,7 @@ def ocr_tessaract(img):
     return pytesseract.image_to_string(img)
 
 
+
 def boxes_image(img, original):
     dicti = pytesseract.image_to_data(img, output_type=Output.DICT)
     n_boxes = len(dicti['text'])
