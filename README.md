@@ -65,17 +65,13 @@ Finally, the preprocessed image is passed through the command to accurately extr
 
 Previous: without normalization + threshold
 
-
-
-
+![without_norm](https://user-images.githubusercontent.com/99968233/212304093-75e6a092-a630-4987-be8b-01e3b3e8f4e4.png)
 
 The shadows affects significant portion of the image thus reducing accuracy of detection.
 
-
-
 After: with normalization + threshold
 
-
+![with_norm](https://user-images.githubusercontent.com/99968233/212304088-60912dc5-d4ea-4686-a592-166c333413c9.png)
 
 Accuracy is significantly improved as a result.
 
@@ -177,7 +173,7 @@ if __name__ == '__main__':
 Result:
 The testing was done in total of 8 images. Each image has different resolutions.
 Image 1:
-
+![ext_test](https://user-images.githubusercontent.com/99968233/212303977-c94d14e7-0278-4a7d-a572-03fe2548b6b9.png)
 Extracted Text:
 
 The no-load operation at transformer is the condition, when primary
@@ -326,5 +322,5 @@ iv. Relative permeability of the core
 Solution;
 
 Detected Texts:
-https://user-images.githubusercontent.com/99968233/212303008-e18a02ef-fe0e-4215-9686-e9a89d6b3861.png
+![boxed_images](https://user-images.githubusercontent.com/99968233/212303961-73955fff-8ffa-435a-b6d6-3d9b7e7a03b3.png)
  
